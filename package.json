@@ -1,0 +1,26 @@
+{
+	"name": "pddapi",
+	"version": "0.0.1",
+	"description": "拼多多开放平台API类库",
+	"keywords": [
+		"pdd",
+		"pddapi",
+		"拼多多",
+		"拼多多开发"
+	],
+	"homepage": "https://github.com/lovefc/node-pddapi",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/lovefc/node-pddapi.git"
+	},
+	"author": {
+		"name": "lovefc",
+		"email": "fcphp@qq.com",
+		"url": "https://lovefc.cn"
+	},
+	"engines": {
+		"node": ">= 0.12.0"
+	},
+	"license": "Apache License 2.0"
+}
